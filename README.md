@@ -1,7 +1,7 @@
 ![image](https://github.com/PNg-HA/CS519.O21.KHTN/assets/93396414/bb8b1767-de36-4138-bb8c-d6a6c5cdab65) # CS519.O21.KHTN
 <p align="center">
   <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
-<h1 align="center"><b>CS519.M11.KHCL - Scientific research methodology</b></h1>
+<h1 align="center"><b>CS519.O21.KHTN - Scientific research methodology</b></h1>
 
 ## Giới thiệu
 * Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific research methodology
