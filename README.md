@@ -1,4 +1,4 @@
-![image](https://github.com/PNg-HA/CS519.O21.KHTN/assets/93396414/bb8b1767-de36-4138-bb8c-d6a6c5cdab65) # CS519.O21.KHTN
+![image](https://github.com/PNg-HA/CS519.O21.KHTN/assets/93396414/bb8b1767-de36-4138-bb8c-d6a6c5cdab65)
 <p align="center">
   <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
 <h1 align="center"><b>CS519.O21.KHTN - Scientific research methodology</b></h1>
